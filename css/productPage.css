@@ -1,0 +1,64 @@
+#navtop{
+  float: right;
+  color: white;
+
+}
+
+#ming {
+  color: white;
+  background-color: #0074D9;
+}
+
+#navbar {
+  color: white;
+  background-color: #0074D9;
+}
+
+#rip {
+  float: left;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+
+#shad:hover {
+  filter: drop-shadow(4px 4px 4px black);
+}
+
+#parallax {
+    background-image: url("../Images/Home/GoodStore.jpg");
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#rect {
+  height: 20px;
+  background-color: #FF4136;
+}
+
+body {
+  background-color: #fffff4;
+}
+
+.modal-body {
+  background-color: #fffff4;
+}
+
+.modal-header {
+  background-color: #fffff4;
+}
+
+.modal-footer {
+  background-color: #fffff4;
+}
+
+.btn-default {
+  background-color: #fffff4;
+}
+
+hr {
+  margin-top: -100px;
+  margin-bottom: -200px;
+}

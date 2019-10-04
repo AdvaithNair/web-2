@@ -1,0 +1,30 @@
+.leftPic {
+  float: left;
+  margin: 10px;
+}
+.rightPic {
+  float: right;
+  margin: 10px;
+}
+.small {
+  width: 150px;
+  padding: 10px;
+  /*margin: 5px;*/
+  margin-left: auto;
+}
+.off {
+  width: 150px;
+  padding: 10px;
+  margin-left: 15px;
+}
+.center{
+  display: block;
+  /*margin: 0 auto;*/
+  margin-left: auto;
+}
+/*.smallPara {
+  width:  800px;
+}
+#sch {
+  width: 800px;
+}*/

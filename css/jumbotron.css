@@ -1,0 +1,12 @@
+.jumbotron{
+  position:relative;
+  background: #000 url(../Images/Jumbotron/landscape.jpg) center center;
+  width:100%;
+  height:450px;
+  background-size:cover;
+  overflow:hidden;
+}
+
+.img-responsive{
+  margin:5px auto;
+}

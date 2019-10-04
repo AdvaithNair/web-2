@@ -1,0 +1,67 @@
+/*background color of nav bar and lower border color*/
+.navbar {
+  background:#1842B8;
+  border-bottom:2px solid #FE0000;
+}
+
+/*sizing and coloring of link text*/
+#navbar a {
+  color:#F9FF01;
+  font-size:1.3em;
+}
+
+/*coloring of the link hover state*/
+#navbar a:hover {
+  color:#FE0000;
+  background:#F9FF01;
+}
+
+/*color of the three horizontal lines in the icon when hoverd over*/
+.navbar-inverse .navbar-toggle:hover .iconbar, .navbar-toggle:focus .icon-bar {
+ background-color: black;
+}
+
+/*color of the background of the icon when hovered over*/
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+  background-color: #a94ff4;
+}
+
+/*color of the three horizontal lines (icons) normal*/
+.navbar-inverse .navbar-toggle .icon-bar {
+  background-color:#fff;
+}
+
+/*color of the whole icon when normal*/
+.navbar-inverse .navbar-toggle {
+  background-color:#8B00FE;
+  border-color:#333;
+}
+
+/*color of the text (westview) when normal*/
+.navbar-header .navbar-brand {
+  color:#FE0000;
+  font-size: 1.6em;
+}
+
+/*color of the text (westview) when hovered over*/
+.navbar-header .navbar-brand:hover {
+  color: #F9FF01;
+}
+
+.full {
+  background: url('Images/LargeBG/sky.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+body {
+  background: black;
+}
+
+.mytext {
+  color:#fff;
+}
+
+.lead {
+  color:#fff;
+}

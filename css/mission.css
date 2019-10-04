@@ -1,0 +1,19 @@
+.jumbotron {
+  width:1600px;
+  margin: auto 0;
+  margin-left: -300px;
+}
+
+.m {
+  margin: auto 0;
+}
+
+.small {
+  width: 250px;
+  padding:10px;
+}
+
+h1{
+  width:1000px;
+  margin-left: -100px;
+}

@@ -1,0 +1,54 @@
+.all{
+  background: #717d91;
+}
+
+.shattered{
+  background: #8fa2c1;
+}
+ul{
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 28px;
+  font-family: sans-serif;
+  display: block;
+  padding: 7px;
+  width: 230px;
+}
+
+a:hover{
+  color: black;
+}
+
+.heading{
+  text-align: right;
+}
+
+h6{
+  text-align:right;
+  margin-top: -5px;
+}
+
+h2{
+  text-align:center;
+  font-family: JoshCooper;
+  font-size:45px;
+}
+.photo{
+  display: block;
+  margin: auto;
+}
+
+p{
+  float: right;
+  margin: auto;
+}
+
+.comic {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}

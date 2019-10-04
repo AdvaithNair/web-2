@@ -1,0 +1,17 @@
+.full{
+  background: url('../Images/LargeBG/sky.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+}
+
+body{
+  background: black;
+}
+
+.mytext{
+  color:#fff;
+}
+
+.lead{
+  color:#fff;
+}

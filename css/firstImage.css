@@ -1,0 +1,11 @@
+img-responsive{
+  display:block;
+  margin:0 auto;
+}
+ .image_col{
+   padding:18px;
+ }
+
+#footer_image{
+  margin-bottom:30px;
+}
